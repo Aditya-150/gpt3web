@@ -117,6 +117,9 @@
   .gpt3__navbar-menu {
     display: flex;
   }
+  .gpt3__navbar-menu_container_links-sign {
+    display: none;
+  }
 }
 
 @media screen and (max-width: 700px) {
@@ -136,6 +139,9 @@
     top: 20px;
   }
   .gpt3__navbar-links_container-links-sign {
+    display: block;
+  }
+  .gpt3__navbar-menu_container_links-sign {
     display: block;
   }
 }
