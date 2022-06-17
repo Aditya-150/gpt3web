@@ -112,7 +112,7 @@
   }
 
   /* Customizing feature component as per needs */
-  .gpt3__whatGPT3-feature .gpt3__features-container_feature-text {
+  .gpt3__whatGPT3-feature .gpt3__features-container__feature-text {
     margin-top: 0.5rem;
   }
 
@@ -124,7 +124,7 @@
 
 @media screen and (max-width: 350px) {
   /* Customizing feature component as per needs */
-  .gpt3__whatGPT3-container .gpt3__features-container__feature {
+  .gpt3__what3-container .gpt3__features-container__feature {
     margin: 1rem 0;
     min-width: 100%;
   }
